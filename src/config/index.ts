@@ -57,6 +57,7 @@ export type ConfigType = {
     uploadImgTimeout: number
     withCredentials: boolean
     customUploadImg: Function | null
+    customUploadVideo: Function | null
     customAlert: Function | null
 
     lang: string

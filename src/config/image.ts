@@ -66,4 +66,5 @@ export default {
 
     // 自定义上传
     customUploadImg: null,
+    customUploadVideo: null,
 }
